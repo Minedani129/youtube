@@ -1,2 +1,3 @@
-# youtube
-Website repo for my youtube channel.
+# MasterProBot
+Here's the source code for the website at
+https://minedani129.github.io/youtube/
